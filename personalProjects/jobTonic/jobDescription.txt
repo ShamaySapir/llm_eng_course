@@ -1,0 +1,42 @@
+Backend Engineer
+R&D IsraelIntermediateFull-time
+Description
+Backend Engineer
+
+About us
+
+Factify sets a new standard in document security, ownership, usability, and automation. We are bringing to market an enterprise document platform that transforms documents, just as the cloud transformed software applications. Our Smarter Document format disrupts an outdated, siloed, 500-billion dollar industry with revolutionary document experience, document applications and enterprise AI.
+
+We are a fast-growing, silicon valley early stage company founded by a winner of the Mathematics Shaw Prize, often called the “Nobel for Math”, and by a Computer Science professor at Hebrew University. Our technology is foundational, not incremental, and was developed over a decade of research. Our leadership team includes company builders and tech entrepreneurs, as well as engineering, product and sales experts. The investors backing us are seasoned company builders, visionaries and engineers who have built world-famous tech teams and hold key tech, business and academia leadership positions.
+
+
+
+About the Role
+
+As a Backend Engineer, you will be design, build, and maintain the backend infrastructure for Factify’s document platform. This key tech role offers a unique opportunity to build, from the ground up, the infrastructure layer of a platform that will disrupt the world of digital documents and redefine the future of documents - everywhere.
+
+You will...
+
+Design and implement production-grade APIs ensuring best in class developer experience
+Build and maintain scalable microservices using Python and Go
+Develop AI infrastructure components including model serving pipelines and data structures enabling advanced document processing capabilities
+Create robust data persistence layers handling millions of documents while ensuring sub-second query performance
+Implement observability, monitoring, and automated scaling solutions across our distributed system
+Requirements
+You have…
+
+3+ years of production experience building distributed backend systems and APIs
+Strong proficiency in Python and Go, with experience in programming patterns
+Proven track record designing and implementing gRPC/REST APIs in production
+Hands-on experience with AWS/GCP/Azure, and familiarity with containerization and orchestration technologies such as Docker and Kubernetes.
+Experience with database management and caching mechanisms (SQL, NoSQL, Redis, etc.).
+Superb problem-solving skills, attention to detail, and ability to troubleshoot complex technical issues.
+
+
+We offer…
+
+Early stage equity option opportunities in a fast-growing company.
+Competitive salary
+An incredible peer group
+An opportunity for ballistic professional growth
+A unique shot at a lasting technical legacy shaping the next revolution in enterprise software
