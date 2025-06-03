@@ -1,0 +1,6 @@
+flask==2.3.3
+openai
+python-dotenv
+selenium
+bs4
+webdriver_manager
